@@ -31,8 +31,8 @@ My solution:
 <img src="screenshots/Huddle-page-mobile-view.png" width="200"/>
 
 ## Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://github.com/sportif7/Huddle-page.git)
+- Live Site URL: [live site URL here](https://sportif7.github.io/Huddle-page/)
 
 ## My Process
 
